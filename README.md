@@ -5,4 +5,4 @@
  2. Run *.frx files with this application.
  3. set FastReport.Net installed directory (one time forever) and enjoy.
  4. 
- for reset installed directory only run this application with "reset" argument. ("FastReport.Net Designer Launcher" reset)
+ for reset installed directory only run this application with "reset" argument.
